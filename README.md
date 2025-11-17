@@ -42,4 +42,4 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone <url-репозитория>
-cd investment-simulator
+cd investment_simulator
